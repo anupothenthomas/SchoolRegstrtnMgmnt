@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1531154521 source:c:\users\hp\desktop\c tutorial\school\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+	<dos.h>
+
